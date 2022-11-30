@@ -5,4 +5,5 @@ Wednesday
 thursday 
 Friday 
 Saturday 
+Sunday 
 
